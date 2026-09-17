@@ -87,4 +87,4 @@ The complete MetroCity College database project is stored in a GitHub
 repository and managed using Git version control.
 
 Repository Link:
-[Add GitHub repository link here]
+https://github.com/BaeThomas/MetroCity_Database_Project
